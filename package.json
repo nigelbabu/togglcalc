@@ -1,0 +1,8 @@
+{
+  "name": "togglcalc",
+  "fullName": "TogglCalc",
+  "description": "Total toggl reports page into hours",
+  "author": "Nigel Babu",
+  "license": "MIT",
+  "version": "0.1"
+}
