@@ -1,8 +1,9 @@
 {
-  "name": "togglcalc",
-  "fullName": "TogglCalc",
-  "description": "Total toggl reports page into hours",
-  "author": "Nigel Babu",
-  "license": "MIT",
-  "version": "0.1"
+    "name": "togglcalc", 
+    "license": "MIT", 
+    "author": "Nigel Babu", 
+    "version": "0.1", 
+    "fullName": "TogglCalc", 
+    "id": "jid1-75DsQ2C5HkB6UA", 
+    "description": "Total toggl reports page into hours"
 }
